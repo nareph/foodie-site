@@ -1,0 +1,10 @@
+/* swiper-custom.css */
+.swiper-pagination-bullet {
+    background-color: var(--primary); /* Use Shadcn UI's primary color */
+    opacity: 0.5;
+  }
+  
+  .swiper-pagination-bullet-active {
+    background-color: var(--primary);
+    opacity: 1;
+  }
