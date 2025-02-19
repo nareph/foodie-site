@@ -17,13 +17,13 @@ export default function Navbar() {
                 <Link href="/" aria-label="Go to Home page" className="flex items-center">
                     <Image
                         src="/logo.jpeg"
-                        alt="Logo Foodie"
+                        alt="Logo Foodies"
                         width={100}
                         height={50}
                         className="object-contain mr-2"
                         priority
                     />
-                    <span className="font-bold text-xl text-foreground hidden md:block">Foodie</span>
+                    <span className="font-bold text-xl text-foreground hidden md:block">Foodies</span>
                 </Link>
 
                 {/* Hamburger Menu (Mobile) */}

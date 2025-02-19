@@ -8,7 +8,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Foodie',
+  title: 'Foodies',
   description: 'Site vitrine pour présenter des flyers',
 };
 
